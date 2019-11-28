@@ -9,7 +9,7 @@ Code for reproducing most of the results in the paper[A Generalized Gaussian Coh
 
 -Ya-Qiu Jin
 
-If you find the code is useful, please cite our paper!
+If you find the code is useful, reference:
 
 @article{GGCS,
 
@@ -17,9 +17,9 @@ If you find the code is useful, please cite our paper!
   
   author={Dong-Xiao Yue, Feng Xu, Alejandro C. Frery ,Ya-Qiu Jin.},
   
-  journal={...},
+  journal={Submitted to IEEE Trans. Geosci. Remote Sensing},
   
-  year={...}
+  year={2019}
   
 }
 
